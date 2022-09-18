@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kotenangered" alt="kotenangered" /></a> </p>
 
-- 🌱 I’m currently learning **Python and C# someday**
+- 🌱 I’m currently learning **Python and probably will start C# someday**
 
 
 <h3 align="left">I forgot what I should write here. Let's pretend we have something here.</h3>
